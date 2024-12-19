@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/S3/S3/bin/Debug/net8.0/S3
+/Users/armanaslanyan/Desktop/rider/S3/S3/bin/Debug/net8.0/S3.deps.json
+/Users/armanaslanyan/Desktop/rider/S3/S3/bin/Debug/net8.0/S3.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/S3/S3/bin/Debug/net8.0/S3.dll
+/Users/armanaslanyan/Desktop/rider/S3/S3/bin/Debug/net8.0/S3.pdb
+/Users/armanaslanyan/Desktop/rider/S3/S3/obj/Debug/net8.0/S3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/S3/S3/obj/Debug/net8.0/S3.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/S3/S3/obj/Debug/net8.0/S3.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/S3/S3/obj/Debug/net8.0/S3.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/S3/S3/obj/Debug/net8.0/S3.dll
+/Users/armanaslanyan/Desktop/rider/S3/S3/obj/Debug/net8.0/refint/S3.dll
+/Users/armanaslanyan/Desktop/rider/S3/S3/obj/Debug/net8.0/S3.pdb
+/Users/armanaslanyan/Desktop/rider/S3/S3/obj/Debug/net8.0/S3.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/S3/S3/obj/Debug/net8.0/ref/S3.dll
